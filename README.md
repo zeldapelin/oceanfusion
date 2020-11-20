@@ -8,7 +8,7 @@ Ocean Fusion is an interactive trivia game that brings awareness about environme
 
 ## 🐟 Team members
 
-<a href="https://github.com/stacello19">Stacy Cho</a> | <a href="https://github.com/zeldapelin"> Pelin Dogan</a> | <a href="https://github.com/amyhlee">Amy Lee</a> | <a href="https://github.com/martha-ivana/">Martha Syryca</a>
+<a href="https://github.com/zeldapelin"> Pelin Dogan</a>
 
 ## 🐠 Tech Stack
 
